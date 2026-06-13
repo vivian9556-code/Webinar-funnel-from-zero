@@ -16,7 +16,7 @@ For each expert, I gathered:
 
   These experts cover the entire webinar funnel:
   
-Funnel Stage           Expert                          
+Funnel Stage                                     
 Traffic Generation - Aleric Heck, Anik Singal        
 Registration Funnel - Rusell Brunson                 
 Webinar Script - Russell Brunson, Jason Fladlien 
