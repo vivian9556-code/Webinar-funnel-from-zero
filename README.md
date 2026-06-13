@@ -16,15 +16,14 @@ For each expert, I gathered:
 
   These experts cover the entire webinar funnel:
   
-  | Funnel Stage        | Expert                          |
-| ------------------- | ------------------------------- |
-| Traffic Generation  | Aleric Heck, Anik Singal        |
-| Registration Funnel | Russell Brunson                 |
-| Webinar Script      | Russell Brunson, Jason Fladlien |
-| Engagement          | Luria Petrucci                  |
-| Course Launches     | Amy Porterfield                 |
-| Lead Generation     | Jon Schumacher                  |
-| Sales Calls         | Joel Erway                      |
-| Automation          | Melissa Kwan, Casey Zeman       |
-| Scaling             | Anik Singal                     |
+Funnel Stage           Expert                          
+Traffic Generation     Aleric Heck, Anik Singal        
+Registration Funnel    Russell Brunson                 
+Webinar Script         Russell Brunson, Jason Fladlien 
+Engagement             Luria Petrucci                  
+Course Launches        Amy Porterfield                 
+Lead Generation        Jon Schumacher                  
+Sales Calls            Joel Erway                      
+Automation             Melissa Kwan, Casey Zeman       
+Scaling                Anik Singal                     
 
